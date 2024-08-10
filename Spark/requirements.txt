@@ -1,0 +1,16 @@
+nltk
+spacy 
+fuzzywuzzy 
+re
+pandas 
+glob 
+pathlib 
+json
+sutime
+datetime
+numpy
+csv
+os 
+copy 
+dateparser 
+sklearn 
